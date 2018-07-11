@@ -1,0 +1,3 @@
+D:\DA1\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Kỹ Thuật Phần Mềm\Đồ án học phần 1\DA1\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\KTPM\Đồ án học phần 1\DA1\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
